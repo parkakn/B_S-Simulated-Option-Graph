@@ -7,5 +7,4 @@ A. Option Price and Greeks
   
 B. Streaming Quotes
   https://github.com/AdamGetbags/streamingQuotesTDA/blob/main/streamingOptionsQuotesTDA.py
-  
-C. 
+   
